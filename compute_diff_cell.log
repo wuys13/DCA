@@ -1,0 +1,9 @@
+nohup: ignoring input
+Args method: cosine; emb: emb_langcell; distance_threshold: 0.6; Cell_num: 5000; Dataset: PBMC_10K; max_workers: 10
+Loading data...
+result/PBMC_10K already exists
+result/PBMC_10K/cosine_emb_langcell already exists
+result/PBMC_10K/cosine_emb_langcell/matching already exists
+result/PBMC_10K/cosine_emb_langcell/similarity_matrix already exists
+Satrt time: 2024-08-03 16:46:49
+Calculating distance for PBMC_10K:1 and PBMC_10K:0 with emb emb_langcell and method cosine...
